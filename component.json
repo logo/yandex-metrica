@@ -3,7 +3,7 @@
   "name": "yandex-metrica",
   "repo": "logo/yandex-metrica",
   "description": "The Yandex Metrica logo.",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"
